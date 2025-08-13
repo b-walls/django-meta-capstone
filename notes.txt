@@ -1,0 +1,8 @@
+admin 
+user: admin
+pass: admin@123!
+
+johndoe
+user: johndoe
+pass: lemon@123!
+token: 07dc845e9722ccf765cafa7260aa60a3cdb2faca
